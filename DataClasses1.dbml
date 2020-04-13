@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Drankregistratie" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(local)\SQLEXPRESS;Initial Catalog=Drankregistratie;Integrated Security=True" SettingsObjectName="Drankregistratie.Properties.Settings" SettingsPropertyName="DrankregistratieConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.drankregistratie" Member="drankregistraties">
+    <Type Name="drankregistratie">
+      <Column Name="DID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="dranknaam" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

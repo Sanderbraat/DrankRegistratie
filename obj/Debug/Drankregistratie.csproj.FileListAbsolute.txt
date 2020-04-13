@@ -1,0 +1,15 @@
+C:\Users\sande\source\repos\Drankregistratie\Drankregistratie\bin\Debug\Drankregistratie.exe.config
+C:\Users\sande\source\repos\Drankregistratie\Drankregistratie\bin\Debug\Drankregistratie.exe
+C:\Users\sande\source\repos\Drankregistratie\Drankregistratie\bin\Debug\Drankregistratie.pdb
+C:\Users\sande\source\repos\Drankregistratie\Drankregistratie\obj\Debug\Drankregistratie.csprojAssemblyReference.cache
+C:\Users\sande\source\repos\Drankregistratie\Drankregistratie\obj\Debug\MainWindow.g.cs
+C:\Users\sande\source\repos\Drankregistratie\Drankregistratie\obj\Debug\App.g.cs
+C:\Users\sande\source\repos\Drankregistratie\Drankregistratie\obj\Debug\Drankregistratie_MarkupCompile.cache
+C:\Users\sande\source\repos\Drankregistratie\Drankregistratie\obj\Debug\Drankregistratie_MarkupCompile.lref
+C:\Users\sande\source\repos\Drankregistratie\Drankregistratie\obj\Debug\MainWindow.baml
+C:\Users\sande\source\repos\Drankregistratie\Drankregistratie\obj\Debug\Drankregistratie.g.resources
+C:\Users\sande\source\repos\Drankregistratie\Drankregistratie\obj\Debug\Drankregistratie.Properties.Resources.resources
+C:\Users\sande\source\repos\Drankregistratie\Drankregistratie\obj\Debug\Drankregistratie.csproj.GenerateResource.cache
+C:\Users\sande\source\repos\Drankregistratie\Drankregistratie\obj\Debug\Drankregistratie.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Drankregistratie\Drankregistratie\obj\Debug\Drankregistratie.exe
+C:\Users\sande\source\repos\Drankregistratie\Drankregistratie\obj\Debug\Drankregistratie.pdb
